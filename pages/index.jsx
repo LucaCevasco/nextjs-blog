@@ -21,10 +21,10 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Soy luca, vivo en argentina y tengo 18 años</p>
+        <p>Soy Luca, vivo en Argentina y tengo 18 años.</p>
         <p>
           Me enfoco en la programación Web y mobile. Tengo experiencia en Frameworks de JavaScript en el front-end y back-end. 
-          Me desenvuelvo mejor en desarrollos de sitios web con el stack de javascript
+          Me desenvuelvo mejor en desarrollos de sitios web con el stack de JavaScript.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
